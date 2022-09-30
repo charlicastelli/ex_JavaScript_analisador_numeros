@@ -1,0 +1,24 @@
+body {
+    background: #311D3F;
+}
+header {
+    color: #FFFFFF;
+    text-align: center;
+    font: normal 16px Arial;
+    font-style: italic;
+}
+section {
+    background: #FFFFFF;
+    width: 600px;
+    margin: auto;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 3px 3px 8px #FFFFFF;
+    padding: 16px;
+}
+footer {
+    color: #FFFFFF;
+    text-align: center;
+    font: normal 16px Arial;
+    font-style: italic;
+}
